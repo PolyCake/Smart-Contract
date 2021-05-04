@@ -1,6 +1,4 @@
-/**
- *Submitted for verification at BscScan.com on 2021-03-31
-*/
+
 
 // SPDX-License-Identifier: GPL-v3.0
 pragma solidity ^0.6.12;
